@@ -4,3 +4,7 @@
     background-color: #070F34;
     font-family: 'Share Tech Mono', monospace;
   }
+  h1 {
+    font-family: 'Orbition', sans-serif;
+    color: var(neon-yellow);
+  }
